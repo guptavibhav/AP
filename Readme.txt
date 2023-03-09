@@ -11,10 +11,10 @@ The assignment is divided into following packages-
 3. Controller
 	- Controller class
 		 Methods
-			- getAllEvents						GET /events
-			- createEvent						POST /events/{eventName}
-			- createSession (in given event)	PUT /events/{eventName}/{session}
-			- deleteSession (from given event)	DELETE events/{eventName}/{sessionName}
+			- getAllEvents					GET /events
+			- createEvent					POST /events/{eventName}
+			- createSession (in given event)		PUT /events/{eventName}/{session}
+			- deleteSession (from given event)		DELETE events/{eventName}/{sessionName}
 
 4. Main Class
 	- ApApplication
